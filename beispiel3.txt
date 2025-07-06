@@ -1,0 +1,1 @@
+Es sei $f: [a,b] \rightarrow \mathbb{R}$ eine stetige Funktion. Wir definieren eine neue Funktion $F:[a,b] \rightarrow \mathbb{R}$ durch  \[ F(x)=\int_a^x f(t) dt.\] Dann ist $F$ differenzierbar und es gilt $F'=f$. 
