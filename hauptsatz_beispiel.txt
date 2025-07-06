@@ -1,0 +1,10 @@
+Es sei <hi1>$f: [a,b] \rightarrow \mathbb{R}$</hi1> eine <hi2><hi3>stetige</hi3></hi2> <hi2>Funktion</hi2>.<voice: 'Gegeben sei eine stetige Funktion f, die von einem Intervall a bis b in die reellen Zahlen abbildet.'> Wir definieren eine neue Funktion <hi4>$F:[a,b] \rightarrow \mathbb{R}$</hi4> durch <hi5>\[ F(x)=\int_a^x f(t) dt.\]</hi5><voice: 'Wir definieren nun eine neue Funktion F durch das Integral von a bis x über f von t d t.'> Dann ist <hi4>$F$</hi4> <hi2><hi6>differenzierbar</hi6></hi2> und es gilt <hi7><hi4>$F'$</hi4>=<hi1>$f$</hi1></hi7>.<voice: 'Dann ist diese Funktion F differenzierbar und ihre Ableitung ist genau unsere ursprüngliche Funktion f.'>
+
+===HIGHLIGHTS===
+hi1: Die ursprüngliche Funktion f - sie bildet von einem Intervall in die reellen Zahlen ab
+hi2: Grundlegende Eigenschaften von Funktionen in der Analysis
+hi3: Stetigkeit ist die Voraussetzung für die Existenz des Integrals
+hi4: Die Stammfunktion F und ihre Eigenschaften
+hi5: Das bestimmte Integral definiert unsere neue Funktion
+hi6: Differenzierbarkeit der Stammfunktion ist das Herzstück des Hauptsatzes
+hi7: Die Kernaussage - die Ableitung der Stammfunktion ist die ursprüngliche Funktion 
